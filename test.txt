@@ -1,4 +1,1 @@
-this is a test
-this is my first file
-
-g, i forgot a line
+this is kinda ok
